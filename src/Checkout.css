@@ -1,0 +1,32 @@
+.Checkout_basket{
+    display: flex;
+    height: max-content;
+    background-color: white;
+    padding: 20px;
+}
+
+.Checkout_ad{
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.checkout_Title .size_h1{
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid grey;
+}
+h3{
+  margin-left: 10px;
+}
+/* .checkout {
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+  }
+  
+  .checkout__ad {
+    width: 100%;
+    margin-bottom: 10px;
+  } */
+  

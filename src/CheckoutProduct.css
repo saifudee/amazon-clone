@@ -1,0 +1,35 @@
+.add_img{
+    margin-top: 10px;
+    width: 180px;
+    height:230px;
+    margin-right: 10px;
+}
+.Checkout_titles{
+    font-size: 17px;
+    font-weight: 800;
+}
+.checkout_col{
+    flex-direction:column;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.Checkout_price{
+    margin-top: 8px;
+}
+.star_2{
+    display:inline-flex;
+    margin-top: 10px;
+    color: gold;
+}
+.Remove_item:hover{
+    border: 2px solid #f0c14b;
+    background-color:cornsilk;
+    transition: ease-in-out;
+}
+.Remove_item{
+    margin-top: 10px;
+    color: black;
+    border: 1px solid black;
+    background: #f0c14b;
+    flex-direction: column;
+}

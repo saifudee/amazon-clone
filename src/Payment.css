@@ -1,0 +1,54 @@
+.payment_full{
+    background-color:white;   
+}
+.payment_pull>h1{
+    text-align: center;
+    /* justify-content: center;
+    align-items: center; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.payment_pull>h1 a{
+    text-decoration: none;
+}
+.payment_address{
+    padding-top: 20px;
+}
+.payment_pull>h1{
+    border: 1px solid black;
+    background-color:rgb(199, 188, 188);  
+}
+.high{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-left: 10px;   
+}
+.left_line{
+    padding-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.payment_items{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-left: 10px;
+}
+.review_items{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.pay_basket{
+    padding-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+.payment_method{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.pay_card>form{
+    padding-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    width:300px;
+}

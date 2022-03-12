@@ -1,0 +1,52 @@
+.Basket_items{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width:250px;
+    height:150px;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    background-color:#f3f3f3;   
+}
+/* .color_box{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    
+    align-items:center;
+    justify-content:space-evenly;
+} */
+.subtotal_items{
+    position:sticky;
+    margin-left:10px;
+}
+p .stay_safe{
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* margin-left: 17px;
+    /* margin-right: -32px;
+    display: flex;
+    flex-wrap: wrap;
+    /* margin-left: -15px; */
+    /* margin-top: 5px; */
+}
+.subtotal__gift{
+    /* justify-content: space-evenly;
+    padding: 6px 4px;
+    margin: 0 8px;  */
+    display: flex;
+    margin-left: 10px;
+}
+.Color_btn:hover{
+    border: 2px solid #f0c14b;
+    background-color:cornsilk;
+    transition: ease-in-out;
+}
+.Color_btn{
+    width: 90%;
+    background-color: #f0c14b;
+    justify-content: center;
+    border-radius: 1px;
+    border: 1px solid black;
+    margin-left: 10px;
+}
